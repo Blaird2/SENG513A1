@@ -1,0 +1,30 @@
+body {
+    background-color: #7D82FF;
+}
+
+h1 {
+	color: blue;
+	text-align:center;
+	font-family: verdanan;
+	font-size: 40px;
+}
+
+p{
+	font-family: verdanan;
+	font-size: 20px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+
+}
+tr:nth-child(even) {background-color: #095C8B}
+table, th, td {
+	height: 30px;
+    border: 1px solid black;
+     text-align: center;
+
+}
